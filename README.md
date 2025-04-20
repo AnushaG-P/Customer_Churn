@@ -7,4 +7,4 @@ Using SweetViz’s ‘compare’ command could find the contrast in training vs 
 
 Once the analysis was done had to find the best model that would fit the dataset. To better understand this process many models have been fit with data which includes - Logistic Regression, Random Forest, XGBoost and Naive Bayes. Feature Section was also performed to find the best features on which the model could be predicted. 
 
-HyperParameter tuning for both XGBoost and Random FOrest have also been done. 
+HyperParameter tuning for both XGBoost and Random Forest have also been done. 
